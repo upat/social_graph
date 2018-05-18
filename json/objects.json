@@ -1,0 +1,34 @@
+[
+	{
+		"id": "sample_object1",
+		"name": "Tomo1"
+	},
+	{
+		"id": "sample_object2",
+		"name": "Tomo2"
+	},
+	{
+		"id": "sample_object3",
+		"name": "Tomo3"
+	},
+	{
+		"id": "sample_object4",
+		"name": "Tomo4"
+	},
+	{
+		"id": "sample_object5",
+		"name": "Tomo5"
+  	},
+	{
+		"id": "sample_object6",
+		"name": "Tomo6"
+	},
+	{
+		"id": "sample_object7",
+		"name": "Tomo7"
+	},
+	{
+		"id": "sample_object8",
+		"name": "Tomo8"
+	}
+]

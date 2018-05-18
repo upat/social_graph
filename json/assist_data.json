@@ -1,0 +1,42 @@
+{
+	"motion" : {
+		"hand" : "逆立ち回数",
+		"hand_walk" : "逆立ち歩数",
+		"hand_time" : "逆立ち最長時間",
+		"walk" : "歩行",
+		"health" : "静脈",
+		"temp" : "体温",
+		"bridge" : "ブリッジ",
+		"rolling" : "でんぐり返し"
+	},
+	"unit" : {
+		"hand" : "回",
+		"hand_walk" : "歩",
+		"hand_time" : "秒",
+		"walk" : "歩",
+		"health" : "bpm",
+		"temp" : "度",
+		"bridge" : "回",
+		"rolling" : "回"
+	},
+	"color" : {
+		"hand" : "#ef9a9a,#f44336",
+		"hand_walk" : "#ef9a9a,#f44336",
+		"hand_time" : "#D1C4E9,#673AB7",
+		"walk" : "#FFE0B2,#FF9800",
+		"health" : "#000000,#FFFFFF",
+		"temp" : "#000000,#FFFFFF",
+		"bridge" : "#B3E5FC,#03A9F4",
+		"rolling" : "#B2DFDB,#009688"
+	},
+	"limit" : {
+		"hand" : "50",
+		"hand_walk" : "100",
+		"hand_time" : "120",
+		"walk" : "500",
+		"health" : "120",
+		"temp" : "40",
+		"bridge" : "20",
+		"rolling" : "20"
+	}
+}

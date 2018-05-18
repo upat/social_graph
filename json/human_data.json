@@ -1,0 +1,77 @@
+{
+  "1330": {
+    "bc5ff4691052": {
+      "ble": [
+      	"Hina", "Chisato", "Maya", "Tomo1"
+      ],
+      "hand": 2,
+      "hand_time": 7,
+      "hand_walk": 3,
+      "place": 1,
+      "walk": 73,
+      "temp": 35.5,
+      "bridge": 0,
+      "rolling": 0
+    }
+  },
+  "1331": {
+    "bc5ff4691052": {
+      "ble": [
+        "Kasumi", "Tomo7"
+      ],
+      "hand": 5,
+      "hand_time": 7,
+      "hand_walk": 3,
+      "place": 1,
+      "walk": 109,
+      "temp": 36.0,
+      "bridge": 1,
+      "rolling": 0
+    }
+  },
+  "1333": {
+    "bc5ff4691052": {
+      "ble": [
+        "Hina", "Chisato", "Maya", "Tomo3"
+      ],
+      "hand": 8,
+      "hand_time": 10,
+      "hand_walk": 5,
+      "place": 1,
+      "walk": 136,
+      "temp": 36.2,
+      "bridge": 1,
+      "rolling": 3
+    }
+  },
+  "1342": {
+    "bc5ff4691052": {
+      "ble": [
+        "Kasumi", "Tomo2"
+      ],
+      "hand": 8,
+      "hand_time": 15,
+      "hand_walk": 5,
+      "place": 1,
+      "walk": 181,
+      "temp": 36.1,
+      "bridge": 3,
+      "rolling": 10
+    }
+  },
+  "1343": {
+    "bc5ff4691052": {
+      "ble": [
+        "Eve", "Hina", "Chisato", "Maya", "Tomo1"
+      ],
+      "hand": 15,
+      "hand_time": 25,
+      "hand_walk": 10,
+      "place": 1,
+      "walk": 267,
+      "temp": 36.0,
+      "bridge": 3,
+      "rolling": 10
+    }
+  }
+}

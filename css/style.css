@@ -1,0 +1,110 @@
+@font-face {
+	font-family: 'rounded-mplus';
+	src: url('/font/rounded-mplus-1c-medium.ttf') format('truetype');
+}
+
+body {
+	background-image: url('/img/background.png');
+	background-repeat: repeat;
+	max-width: 50em;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 1em;
+	font-family: 'rounded-mplus';
+}
+
+/* ボタン, セレクトボックス */
+input, select {
+	font-family: 'rounded-mplus';
+	font-size: 24pt;
+}
+
+.link line {
+	stroke: #696969;
+}
+
+marker {
+	stroke: #fff;
+	fill: #696969;
+}
+
+.link line.separator {
+	stroke: #ffffff;
+	stroke-width: 2px;
+}
+
+.node text {
+	/* font: 10px sans-serif; */
+	font: 10px;
+	pointer-events: none;
+}
+
+/* ここから主にパーソナルデータ用 */
+
+/* subindex.jsの段落用 */
+.subtext {
+	font-family: 'rounded-mplus';
+	font-size: 24pt;
+}
+
+/* subindex.jsのタイトル用 */
+.titletext p {
+	display : inline-block;
+	vertical-align : middle;
+	font-family: 'rounded-mplus';
+	font-size: 36pt;
+}
+
+/* 円グラフ内のテキスト(値・単位) */
+.circles-text {
+	font-size: 40px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	text-align: center;
+	width: 100%;
+	height: 200px;
+	line-height: 200px;
+}
+
+/* 軸 */
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1.5px;
+  shape-rendering: auto; /*アンチエイリアス処理*/
+}
+
+/* グリッド線 */
+.grid line {
+  stroke: grey;
+  stroke-opacity: 0.9;
+  stroke-width: 1.0px;
+  shape-rendering: crispEdges;
+}
+
+/* グラフ線 */
+.main_line {
+  fill: none;
+  stroke-width: 2px;
+}
+.sub_line {
+  fill: none;
+  stroke-width: 6px;
+}
+
+/* X軸テキスト */
+.x .tick text {
+	font-family: 'rounded-mplus';
+	font-size: 14px;
+	transform: rotate(-60deg) translate(-30px, -5px);
+}
+
+/* Y軸テキスト */
+.y .tick text {
+	font-family: 'rounded-mplus';
+	font-size: 16px;
+}
+
+html {height:100%;}

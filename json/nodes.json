@@ -1,0 +1,80 @@
+[
+	{
+		"id": "bc5ff4691052",
+		"name": "Aya",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "cbd1a24097a1",
+		"name": "Hina",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "f854261f9f84",
+		"name": "Chisato",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "e163714c151d",
+		"name": "Maya",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "dc8c522cb69a",
+		"name": "Eve",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "c981f2d80980",
+		"name": "Kasumi",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "e514a2139dfb",
+		"name": "Tae",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "e514a2139daa",
+		"name": "Rimi",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "e514a2139dbb",
+		"name": "Arisa",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "e514a2139dcc",
+		"name": "Saaya",
+		"gender": "f",
+		"type": "c"
+	},
+	{
+		"id": "e514a2139ddd",
+		"name": "Kaoru",
+		"gender": "m",
+		"type": "c"
+	},
+	{
+		"id": "e482effe91ae",
+		"name": "Marina",
+		"gender": "f",
+		"type": "t"
+	},
+	{
+		"id": "d1fd158341b8",
+		"name": "Shihune",
+		"gender": "f",
+		"type": "t"
+	}
+]
